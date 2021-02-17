@@ -1,0 +1,3 @@
+/mnt/c/Users/steve/CLionProjects/assignment4_RISC-V_Disassembler/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/steve/CLionProjects/assignment4_RISC-V_Disassembler/cmake-build-wsl_profile/CMakeFiles/assignment4_RISC_V_Disassembler.dir
+/mnt/c/Users/steve/CLionProjects/assignment4_RISC-V_Disassembler/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
